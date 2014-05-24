@@ -14,7 +14,7 @@ https://www.coursera.org/specialization/jhudatascience/1
     > cache$get()                   # Returns the original matrix
     > cacheSolve(cache)             # Computes the matrix inverse
     > cacheSolve(cache)             # Again, but from cache.  Will see output
-                                        #    "getting cached data"
+                                    #    "getting cached data"
 
 #### Demonstrate caching performance:
 
